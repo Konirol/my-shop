@@ -26,6 +26,7 @@ header {
     margin-left: 5rem;
     font-size: 1.75rem;
     color: hsl(310, 100%, 95%);
+    font-family: 'losevka Charon Mono';
 }
 
 header nav {display: flex;}
